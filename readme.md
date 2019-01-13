@@ -9,10 +9,10 @@
 
 ## How to initialize the project
 
-1- clone to your local directory using git clone https://github.com/SahanNimeshWeerakoon/ajaxCrud
-2- do "composer install"
-3- do "php artisan serve"
-4- go to "localhost:8000/ajaxdata"
+- clone to your local directory using git clone https://github.com/SahanNimeshWeerakoon/ajaxCrud
+- do "composer install"
+- do "php artisan serve"
+- go to "localhost:8000/ajaxdata"
 
 ## About Laravel
 
