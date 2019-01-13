@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## How to initialize the project
+
+1- clone to your local directory using git clone https://github.com/SahanNimeshWeerakoon/ajaxCrud
+2- do "composer install"
+3- do "php artisan serve"
+4- go to "localhost:8000/ajaxdata"
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
